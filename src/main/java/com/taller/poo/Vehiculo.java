@@ -1,4 +1,4 @@
-package com.taller.practico.poo;
+package com.taller.poo;
 
 public class Vehiculo {
     private String marca;

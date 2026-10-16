@@ -1,4 +1,4 @@
-package com.taller.practico.estructuras;
+package com.taller.estructuras;
 import java.util.Scanner;
 
     public class Exercise1_2 {
