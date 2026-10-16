@@ -1,4 +1,4 @@
-package com.taller2;
+package com.taller.practico.practico;
 
 import java.util.Locale;
 

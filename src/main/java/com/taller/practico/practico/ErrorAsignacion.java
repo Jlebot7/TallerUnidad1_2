@@ -1,4 +1,4 @@
-package com.taller2;
+package com.taller.practico.practico;
 
 public class ErrorAsignacion {
     public static void main(String[] args) {
